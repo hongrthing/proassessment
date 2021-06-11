@@ -29,7 +29,7 @@ namespace GomokGameProject
         //실행  
         {
             InitializeComponent();
-            //Designer 구현되어져 있는 component 들을 불러옴  
+            //Designer에 구현되어져 있는 component 들을 불러옴  
         }
 
         private void singlePlayButton_Click(object sender, EventArgs e)
